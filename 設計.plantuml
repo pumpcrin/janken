@@ -1,0 +1,10 @@
+
+@startuml prototype
+
+class SceneManager
+class GameManager
+class Canvas
+
+
+
+@enduml
